@@ -30,11 +30,11 @@ Ans: The second quarter of the year has the highest number of orders placed by c
 
 3;  What are the most popular product categories on Olist, and how do their sales volumes compare to each other?
 
-Ans; cama_mesa_banho (bed_table_bath) by sales volume is the most popular product category totaling $1.7M
+Ans; cama_mesa_banho (bed_table_bath), beauty_health by sales volume were the most popular product category totaling $1.7M
 
 4;   What is the average order value (AOV) on Olist, and how does this vary by product category or payment method?
 
-Ans; The average order valueon OList is $154
+Ans; The average order valu on OList was $154
 
 5; How many sellers are active on Olist, and how does this number change by payment type?
 
@@ -42,11 +42,11 @@ Ans; 2951, 2010, 1046, 679 are total number of active sellers by credit_card, bo
 
 6; What is the distribution of seller ratings on Olist, and how does this impact sales performance?
 
-Ans; 5 review_score with 30% sellers account for the most sales made by OLIst
+Ans; 5 review_score with 30% seller ratings account for the most sales made by OLIst
 
 7;  How many customers have made repeat purchases on Olist, and what percentage of total sales do they account for?
 
-Ans; 2,997 customers palced order on Olist more than once and they account for approximately 6% of the total sales
+Ans; 2,997 customers placed order on Olist more than once and they account for approximately 6% of the total sales
 
 8;  What is the average customer rating for products sold on Olist, and how does this impact sales performance?
 
@@ -58,11 +58,12 @@ Ans; The cancelled orders on average acounted for 625(0.62%) of the total sales 
 
 10;  What are the top-selling products on Olist, and how have their sales trends changed over time?
 
-Ans; The top 2 selling products on Olist are bed_bath_table(Cama_mesa_banho), beauty_health(Beleza_saude) and each accounting for $1.7M and $1.6M of the total sales
+Ans; The top 2 selling products on Olist were bed_bath_table(Cama_mesa_banho), beauty_health(Beleza_saude) and each accounting for $1.7M and $1.6M of the total sales respectively
 
 11; Which payment methods are most commonly used by Olist customers, and how does this vary by product category or geographic region?
 
-Ans; The payment method commoly used by customers is the credit card with over 74% of the useage, then boleto with 16% of useage compare to other payment method.
+Ans; The payment method commonly used by customers was the credit card with over 74% of it useage, then boleto with 16% of useage compare to other payment method.
+
 bed_bath_table is the product with high purchases made  using the credit card while Sao paulo is the location with the credit card used the most.
 
 12; How do customer reviews and ratings affect sales and product performance on Olist?
@@ -91,13 +92,13 @@ The months with the highest number of orders were August, May, and July, while S
 
 4; The top selling products were the bed_bath_table and the beauty_health.
 
-5; Sao paulo is the state with high customer concentration of 41%
+5; Sao paulo is the state with high customer concentration of 41% of the total customer rate
 
 6; Telefonia_fixa is the product with highest profit margin of 68%, drinks (60%), and signaling_and_security (59%). Olist could channel more resources including strtegic marketing for increase in profitability of these product.
 
-7; Average rating score was 4. follwed by 5 reviews. These shows that customers are satisfied with the products on Olist platform.
+7; Average rating score of most products was 4. follwed by 5 reviews. These shows that customers are satisfied with the products on Olist platform.
 
-8; over 74% of the customers used credit card for payment, debit cards is the least used for payment by customer. These could be base on customer convenience or rewards attached to using this means of payment
+8; Over 74% of the customers used credit card for payment, debit cards were the least used for payment by customer. These could be base on customer convenience or rewards attached to using this credit cards
 
 9; The order cancellation rate on Olist is approximately 0.6%, indicating a high level of customer satisfaction.
 
